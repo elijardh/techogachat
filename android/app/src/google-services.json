@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560625377668",
+    "project_id": "techogachat",
+    "storage_bucket": "techogachat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560625377668:android:24ab672a8654fe0edabdd1",
+        "android_client_info": {
+          "package_name": "com.example.techogachat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlLrg3cUGqcFqavRenuGjagaLHiSB90oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
